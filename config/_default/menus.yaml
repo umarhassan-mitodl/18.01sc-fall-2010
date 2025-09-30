@@ -1,0 +1,116 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 08db2ed9-10ad-c41a-6bce-da6c3bf65e1f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ff2c27ef-f0de-3981-0c3e-51a37548e568
+  name: 1. Differentiation
+  pageRef: /pages/1.-differentiation/
+  weight: 20
+- identifier: 962d1716-11a1-01d4-9f86-5818d41217eb
+  name: 'Part A: Definition and Basic Rules'
+  pageRef: /pages/1.-differentiation/part-a-definition-and-basic-rules/
+  parent: ff2c27ef-f0de-3981-0c3e-51a37548e568
+  weight: 30
+- identifier: ea455a8a-e7f0-daad-0b8d-5033112f5f5e
+  name: 'Part B: Implicit Differentiation and Inverse Functions'
+  pageRef: /pages/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/
+  parent: ff2c27ef-f0de-3981-0c3e-51a37548e568
+  weight: 40
+- identifier: ffc4ad3d-8715-27a0-ef73-8ec4809f2038
+  name: Exam 1
+  pageRef: /pages/1.-differentiation/exam-1/
+  parent: ff2c27ef-f0de-3981-0c3e-51a37548e568
+  weight: 50
+- identifier: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
+  name: 2. Applications of Differentiation
+  pageRef: /pages/unit-2-applications-of-differentiation/
+  weight: 60
+- identifier: 8c88ae04-1747-5c6d-ae97-e569853bfd9e
+  name: 'Part A: Approximation and Curve Sketching'
+  pageRef: /pages/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/
+  parent: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
+  weight: 70
+- identifier: 7bd0936f-cddb-b454-b9e5-dab2884cc641
+  name: 'Part B: Optimization, Related Rates and Newton''s Method'
+  pageRef: /pages/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/
+  parent: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
+  weight: 80
+- identifier: cc849d58-0178-1635-e7d9-29c121e176fe
+  name: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equa'
+  pageRef: /pages/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/
+  parent: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
+  weight: 90
+- identifier: 2e8fc5a2-7f94-964a-4603-c27ff84434fc
+  name: Exam 2
+  pageRef: /pages/unit-2-applications-of-differentiation/exam-2/
+  parent: c2ca8a0d-20e5-96b1-1e2e-c5c48c7179ca
+  weight: 100
+- identifier: 4c201b00-a047-0284-ebd6-c546e0cc59ab
+  name: 3. The Definite Integral and its Applications
+  pageRef: /pages/unit-3-the-definite-integral-and-its-applications/
+  weight: 110
+- identifier: 0b76caa8-a528-37fd-ba43-c151842bb90a
+  name: 'Part A: Definition of the Definite Integral and First Fundamental'
+  pageRef: /pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/
+  parent: 4c201b00-a047-0284-ebd6-c546e0cc59ab
+  weight: 120
+- identifier: 82a633f3-2c2b-0be8-4fba-01f5e5741006
+  name: 'Part B: Second Fundamental Theorem, Areas, Volumes'
+  pageRef: /pages/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/
+  parent: 4c201b00-a047-0284-ebd6-c546e0cc59ab
+  weight: 130
+- identifier: e1f8a1b7-89b8-3e57-da0e-01f4ada7283a
+  name: 'Part C: Average Value, Probability and Numerical Integration'
+  pageRef: /pages/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/
+  parent: 4c201b00-a047-0284-ebd6-c546e0cc59ab
+  weight: 140
+- identifier: d008dd74-a84e-2b23-0239-ba6f9604c6fa
+  name: Exam 3
+  pageRef: /pages/unit-3-the-definite-integral-and-its-applications/exam-3/
+  parent: 4c201b00-a047-0284-ebd6-c546e0cc59ab
+  weight: 150
+- identifier: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
+  name: 4. Techniques of Integration
+  pageRef: /pages/unit-4-techniques-of-integration/
+  weight: 160
+- identifier: 6b4ef500-53da-70f0-e865-4886100e09bb
+  name: 'Part A: Trigonometric Powers,  Trigonometric Substitution and Com'
+  pageRef: /pages/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/
+  parent: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
+  weight: 170
+- identifier: be9d889d-28b5-7df1-a77b-bd83f2f4f214
+  name: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and '
+  pageRef: /pages/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/
+  parent: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
+  weight: 180
+- identifier: f19e1f54-f348-a68a-7308-89ee63f5b9d6
+  name: 'Part C: Parametric Equations and Polar Coordinates'
+  pageRef: /pages/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/
+  parent: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
+  weight: 190
+- identifier: 6484ae59-4046-2fad-f99f-0d827e877e70
+  name: Exam 4
+  pageRef: /pages/unit-4-techniques-of-integration/exam-4/
+  parent: 4da2f4d4-7b88-7d3f-0da6-a5405ecfef83
+  weight: 200
+- identifier: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
+  name: 5. Exploring the Infinite
+  pageRef: /pages/unit-5-exploring-the-infinite/
+  weight: 210
+- identifier: 70119623-65c7-a7e3-1179-a33dc8e95275
+  name: 'Part A: L''Hospital''s Rule and Improper Integrals'
+  pageRef: /pages/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/
+  parent: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
+  weight: 220
+- identifier: 1c9b9277-6c16-c587-013d-2f3b4e9b94a0
+  name: 'Part B: Taylor Series'
+  pageRef: /pages/unit-5-exploring-the-infinite/part-b-taylor-series/
+  parent: 6e3abd11-deb0-9fc4-9199-b1e8893935e7
+  weight: 230
+- identifier: fe839db0-25a8-3d50-85ec-ae3d78b54553
+  name: Final Exam
+  pageRef: /pages/final-exam
+  weight: 240
