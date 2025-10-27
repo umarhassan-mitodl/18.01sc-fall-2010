@@ -26,7 +26,7 @@
     "website": "18-01sc-single-variable-calculus-fall-2010"
   },
   "course_title": "Single Variable Calculus",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.\n\nCourse Format\n\nThis course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n- **Lecture Videos** with supporting written notes\n- **Recitation Videos** of problem-solving tips\n- **Worked Examples** with detailed solutions to sample problems\n- **Problem sets** with solutions\n- **Exams** with solutions\n- **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\nContent Development\n\nDavid Jerison\u00a0\u00a0\u00a0  \nArthur Mattuck\u00a0\u00a0\u00a0  \nHaynes Miller\u00a0\u00a0\u00a0  \nBenjamin Brubaker\u00a0\u00a0\u00a0  \nJeremy Orloff\n\nHeidi Burgiel\u00a0\u00a0\u00a0  \nChristine Breiner\u00a0\u00a0\u00a0  \nDavid Jordan\u00a0\u00a0\u00a0  \nJoel Lewis\n\nAbout OCW Scholar\n\nOCW Scholar courses are designed specifically for OCW's single largest audience: independent learners. These courses are substantially more complete than typical OCW courses, and include new custom-created content as well as materials repurposed from previously published courses.",
   "department_numbers": [
     "18"
@@ -37,7 +37,6 @@
     "content": "4f83f602-3d19-5bbb-a975-68501f73d873",
     "website": "18-01sc-single-variable-calculus-fall-2010"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
