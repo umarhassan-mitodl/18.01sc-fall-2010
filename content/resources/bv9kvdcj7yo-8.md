@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-01sc-single-variable-calculus-fall-2010/a7ac29a761ac874346d72ab03814b458_Bv9kVDcj7yo.srt
 file_size: 50113
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

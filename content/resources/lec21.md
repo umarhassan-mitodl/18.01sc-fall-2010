@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-01sc-single-variable-calculus-fall-2010/384e4ad329e2f8c7f23cbb24b5b7e076_lec21.jpg
 file_size: 3607
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

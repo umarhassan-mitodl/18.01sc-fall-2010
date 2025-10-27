@@ -4,8 +4,6 @@ description: ''
 end_time: '1691'
 file: null
 file_size: '114119096'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''

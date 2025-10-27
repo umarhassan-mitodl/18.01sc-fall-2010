@@ -3,8 +3,6 @@ content_type: page
 description: This section features lectures on the definite integral, the first fundamental
   theorem, the second fundamental theorem, areas, volumes, average value, probability,
   and numerical integration.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 3. The Definite Integral and its Applications

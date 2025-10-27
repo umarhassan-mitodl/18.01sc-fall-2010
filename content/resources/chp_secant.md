@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
 file_size: 44731
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Secant approximation mathlet from the d'Arbeloff Interactive Math Project.
     Image courtesy of Haynes Miller, Heidi Burgiel, and J.-M. Claus.
