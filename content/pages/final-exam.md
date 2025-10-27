@@ -22,4 +22,4 @@ In this session you will:
 {{% resource_link "bbbf0528-6af4-bd70-5af3-25080bea0e23" "Solutions to Final Exam (PDF)" %}}
 
 Did this course have everything you needed to learn the subject? Are there ways we could improve it?   
-[Let us know](https://ocw.mit.edu/contact/).
+{{% resource_link "bd9c7db7-2d52-4f03-8e7e-f36d35aeecb6" "Let us know" %}}.
